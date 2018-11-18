@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Rebana Sabyan</string>
+    <string name="dum">DUNG</string>
+    <string name="tak">TEK</string>
+    <string name="ka">TAK</string>
+    <string name="slap">TUNG</string>
+    <string name="choose_your_darbuka_s_theme">Choose your Rebana\'s Theme</string>
+    <string name="choose_your_background_s_theme">Choose your Background\'s Theme</string>
+    <array name="array_dot_active">
+        <item>@color/colorPrimary</item>
+        <item>@color/colorPrimary</item>
+        <item>@color/colorPrimary</item>
+        <item>@color/colorPrimary</item>
+        <item>@color/colorPrimary</item>
+    </array>
+
+    <array name="array_dot_inactive">
+        <item>@color/colorWhite</item>
+        <item>@color/colorWhite</item>
+        <item>@color/colorWhite</item>
+        <item>@color/colorWhite</item>
+        <item>@color/colorWhite</item>
+    </array>
+    <array name="bgarray_dot_active">
+        <item>@color/colorPrimary</item>
+        <item>@color/colorPrimary</item>
+    </array>
+
+    <array name="bgarray_dot_inactive">
+        <item>@color/colorWhite</item>
+        <item>@color/colorWhite</item>
+    </array>
+</resources>

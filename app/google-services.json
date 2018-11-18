@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "602626914161",
+    "firebase_url": "https://darbuka-4d645.firebaseio.com",
+    "project_id": "darbuka-4d645",
+    "storage_bucket": "darbuka-4d645.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602626914161:android:4849e4a7554555d0",
+        "android_client_info": {
+          "package_name": "com.nextwin.rebana"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602626914161-pqci2r9lte4a7b7noapu85gfrdu43hft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo396IC7NBIPn_733p8ZecjBvFDtTIAmw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602626914161:android:1a0d676cbd215a82",
+        "android_client_info": {
+          "package_name": "com.nextwin.rebana.sabyan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602626914161-pqci2r9lte4a7b7noapu85gfrdu43hft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo396IC7NBIPn_733p8ZecjBvFDtTIAmw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
